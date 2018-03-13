@@ -1,0 +1,11 @@
+@RELATION Leaf_Classification
+
+@ATTRIBUTE Contrast numeric
+@ATTRIBUTE Homogeneity numeric
+@ATTRIBUTE ASM numeric
+@ATTRIBUTE Dissimilarity numeric
+@ATTRIBUTE Energy numeric
+@ATTRIBUTE class {Aguacate, Guayacan, Coralillo}
+
+@DATA
+22999355,2789472.15314,107445585666,6289531,327788.93463,?
